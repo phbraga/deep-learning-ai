@@ -12,3 +12,7 @@
 
   - **Week 3:**
     - [Planar data classification with a hidden layer](https://github.com/phbraga/deep-learning-ai/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week3-Planar_data_classification_with_one_hidden_layer_v5.ipynb)
+
+  - **Week 4:**
+      - [Building your deep neural network: Step by Step](https://github.com/phbraga/deep-learning-ai/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week4-Building_your_Deep_Neural_Network_Step_by_Step_v8.ipynb)
+      - [Deep Neural Network Application](https://github.com/phbraga/deep-learning-ai/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week4-Deep_Neural_Network_Application_v8.ipynb)
