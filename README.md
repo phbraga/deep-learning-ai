@@ -38,4 +38,4 @@
 
   - **Week 3:**
 
-    - [Tensorflow](https://github.com/phbraga/deep-learning-ai/tree/master/Improving%20Deep%20Neural%20Networks_Hyperparameter%20tuning%20-%20Regularization%20-%20Optimization/Week3-Tensorfloat_Tutorial.ipynb)
+    - [Tensorflow](https://github.com/phbraga/deep-learning-ai/tree/master/Improving%20Deep%20Neural%20Networks_Hyperparameter%20tuning%20-%20Regularization%20-%20Optimization/Week3-Tensorflow_Tutorial.ipynb)
