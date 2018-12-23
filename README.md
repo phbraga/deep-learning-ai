@@ -39,3 +39,10 @@
   - **Week 3:**
 
     - [Tensorflow](https://github.com/phbraga/deep-learning-ai/tree/master/Improving%20Deep%20Neural%20Networks_Hyperparameter%20tuning%20-%20Regularization%20-%20Optimization/Week3-Tensorflow_Tutorial.ipynb)
+
+- **Course 4: Convolutional Neural Networks:**
+
+  - **Week 1:**
+
+    - [Convolutional Model - Step by Step](https://github.com/phbraga/deep-learning-ai/tree/master/Convolutional%20Neural%20Networks/Week1-Convolution_model-Step_by_Step-v2.ipynb)
+    - [Convolutional Model - Application](https://github.com/phbraga/deep-learning-ai/tree/master/Convolutional%20Neural%20Networks/Week1-Convolution_model-Application-v1.ipynb)
