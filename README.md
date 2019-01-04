@@ -54,4 +54,4 @@
 
   - **Week 3:**
 
-    -[Car detection with YOLOv2](https://github.com/phbraga/deep-learning-ai/tree/master/Convolutional%20Neural%20Networks/Week3-Autonomous_driving_application-Car_detection-v3.ipynb)
+    - [Car detection with YOLOv2](https://github.com/phbraga/deep-learning-ai/tree/master/Convolutional%20Neural%20Networks/Week3-Autonomous_driving_application-Car_detection-v3.ipynb)
