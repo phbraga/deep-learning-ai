@@ -46,3 +46,12 @@
 
     - [Convolutional Model - Step by Step](https://github.com/phbraga/deep-learning-ai/tree/master/Convolutional%20Neural%20Networks/Week1-Convolution_model-Step_by_Step-v2.ipynb)
     - [Convolutional Model - Application](https://github.com/phbraga/deep-learning-ai/tree/master/Convolutional%20Neural%20Networks/Week1-Convolution_model-Application-v1.ipynb)
+
+  - **Week 2:**
+
+    - [Keras Tutorial](https://github.com/phbraga/deep-learning-ai/tree/master/Convolutional%20Neural%20Networks/Week2-Keras_Tutorial-Happy_House-v2.ipynb)
+    - [Residual Networks](https://github.com/phbraga/deep-learning-ai/tree/master/Convolutional%20Neural%20Networks/Week2-Residual_Networks-v2.ipynb)
+
+  - **Week 3:**
+
+    -[Car detection with YOLOv2](https://github.com/phbraga/deep-learning-ai/tree/master/Convolutional%20Neural%20Networks/Week3-Autonomous_driving_application-Car_detection-v3.ipynb)
