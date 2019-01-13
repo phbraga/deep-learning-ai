@@ -59,3 +59,10 @@
   - **Week 3:**
 
     - [Car detection with YOLOv2](https://github.com/phbraga/deep-learning-ai/tree/master/Convolutional%20Neural%20Networks/Week3-Autonomous_driving_application-Car_detection-v3.ipynb)
+
+
+    - **Week 4:**
+
+      - [Art generation with Neural Style Transfer](https://github.com/phbraga/deep-learning-ai/tree/master/Convolutional%20Neural%20Networks/Week4-Art_Generation_with_Neural_Style_Transfer-v2.ipynb)
+
+      - [Face Recognition for the Happy House](https://github.com/phbraga/deep-learning-ai/tree/master/Convolutional%20Neural%20Networks/Week4-Face_Recognition_for_the_Happy_House-v3.ipynb)
