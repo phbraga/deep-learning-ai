@@ -65,3 +65,14 @@
     - [Art generation with Neural Style Transfer](https://github.com/phbraga/deep-learning-ai/tree/master/Convolutional%20Neural%20Networks/Week4-Art_Generation_with_Neural_Style_Transfer-v2.ipynb)
 
     - [Face Recognition for the Happy House](https://github.com/phbraga/deep-learning-ai/tree/master/Convolutional%20Neural%20Networks/Week4-Face_Recognition_for_the_Happy_House-v3.ipynb)
+
+
+- **Course 5: Sequence Models:**
+
+  - **Week 1:**
+
+    - [Building a recurrent neural network - step by step](https://github.com/phbraga/deep-learning-ai/tree/master/Sequence%20Models/Week1-Building_a_Recurrent_Neural_Network-Step_by_Step-v3.ipynb)
+
+    - [Dinosaur Island - Character-Level Language Modeling](https://github.com/phbraga/deep-learning-ai/tree/master/Sequence%20Models/Week1-Dinosaurus_Island-Character_level_language_model_final-v3.ipynb)
+
+    - [Jazz improvisation with LSTM](https://github.com/phbraga/deep-learning-ai/tree/master/Sequence%20Models/Week1-Improvise_a_Jazz_Solo_with_an_LSTM_Network-v3.ipynb)
