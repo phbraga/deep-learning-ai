@@ -76,3 +76,9 @@
     - [Dinosaur Island - Character-Level Language Modeling](https://github.com/phbraga/deep-learning-ai/tree/master/Sequence%20Models/Week1-Dinosaurus_Island-Character_level_language_model_final-v3.ipynb)
 
     - [Jazz improvisation with LSTM](https://github.com/phbraga/deep-learning-ai/tree/master/Sequence%20Models/Week1-Improvise_a_Jazz_Solo_with_an_LSTM_Network-v3.ipynb)
+
+  - **Week 2:**
+
+    - [Operations on word vectors - Debiasing](https://github.com/phbraga/deep-learning-ai/tree/master/Sequence%20Models/Week2-Operations_on_word_vectors-v2.ipynb)
+
+    - [Emojify](https://github.com/phbraga/deep-learning-ai/tree/master/Sequence%20Models/Week2-Emojify-v2.ipynb)
