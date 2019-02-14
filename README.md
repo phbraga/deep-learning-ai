@@ -82,3 +82,9 @@
     - [Operations on word vectors - Debiasing](https://github.com/phbraga/deep-learning-ai/tree/master/Sequence%20Models/Week2-Operations_on_word_vectors-v2.ipynb)
 
     - [Emojify](https://github.com/phbraga/deep-learning-ai/tree/master/Sequence%20Models/Week2-Emojify-v2.ipynb)
+
+  - **Week 3:**
+
+    - [Machine Translation](https://github.com/phbraga/deep-learning-ai/tree/master/Sequence%20Models/Week3-Neural_machine_translation_with_attention-v4.ipynb)
+
+    - [Trigger word detection](https://github.com/phbraga/deep-learning-ai/tree/master/Sequence%20Models/Week3-Trigger_word_detection-v1.ipynb)
